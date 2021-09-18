@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/vladik-cmd/projet__course#readme",
   "devDependencies": {
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
   }
 }
